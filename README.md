@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agilityhawk
-- 👀 I’m interested in code-development, video games and more...
-- 🌱 I’m always learning stuff. (Even some that I have forgotten from my past learnings)
-- 💞️ I’m looking to collaborate on interesting new web-technologies
+- 👀 I’m always looking out for interesting opportunities in both open-source development as well as custom code
+- 🌱 I’m always open to learning cool new things and technologies 
+- 💞️ I’m open to collaborations on interesting projects
 - 📫 How to reach me? - For now, you can reach me right here on github!
 
 <!---
